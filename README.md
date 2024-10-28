@@ -2,7 +2,7 @@
 
 This application uses HTML, CSS, Javascript and Bootstrap on the frontend for interactive and responsive UI. The backend is built with PHP which uses MySQL for data management.
 
-![Main Banner](/assets/demo.gif)
+![Main Banner](https://github.com/angeli-ramirez/badbeat-ecommerce-site/blob/master/assets/demo.gif)
 
 ## **Technologies Used**
 
@@ -16,23 +16,23 @@ This application uses HTML, CSS, Javascript and Bootstrap on the frontend for in
 Below are some more screenshots demonstrating the features of the application.
 
 ### **Main Page**
-![Main Page 1](/assets/main-1.png)
-![Main Page 2](/assets/main-2.png)
+![Main Page 1](https://github.com/angeli-ramirez/badbeat-ecommerce-site/blob/master/assets/1.png)
+![Main Page 2](https://github.com/angeli-ramirez/badbeat-ecommerce-site/blob/master/assets/2.png)
 
 ### **Shop**
-![Shop 1](/assets/shop-1.png)
-![Shop 2](/assets/shop-2.png)
+![Shop 1](https://github.com/angeli-ramirez/badbeat-ecommerce-site/blob/master/assets/3.png)
+![Shop 2](https://github.com/angeli-ramirez/badbeat-ecommerce-site/blob/master/assets/4.png)
 
 ### **Cart**
-![Cart](/assets/cart.png)
+![Cart](https://github.com/angeli-ramirez/badbeat-ecommerce-site/blob/master/assets/5.png)
 
 ### **Orders**
-![Orders](/assets/orders.png)
+![Orders](https://github.com/angeli-ramirez/badbeat-ecommerce-site/blob/master/assets/6.png)
 
 ### **Contact**
-![Contact](/assets/contact.png)
+![Contact](https://github.com/angeli-ramirez/badbeat-ecommerce-site/blob/master/assets/7.png)
 
 ### **Admin Panel**
-![Admin 1](/assets/admin-1.png)
-![Admin 2](/assets/admin-2.png)
-![Admin 3](/assets/admin-3.png)
+![Admin 1](https://github.com/angeli-ramirez/badbeat-ecommerce-site/blob/master/assets/8.png)
+![Admin 2](https://github.com/angeli-ramirez/badbeat-ecommerce-site/blob/master/assets/9.png)
+![Admin 3](https://github.com/angeli-ramirez/badbeat-ecommerce-site/blob/master/assets/10.png)
